@@ -145,9 +145,3 @@ The project follows an **object-oriented architecture** with **13 Java classes**
 
 ---
 
-## 👩‍💻 Developed By
-**Team Healthaholic Developers**  
-Department of Computer Science, NUST SEECS  
-📅 2023
----
-
